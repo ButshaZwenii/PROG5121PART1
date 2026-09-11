@@ -14,11 +14,11 @@ public class LoginTest {
         // arrange
         Login login = new Login("kyl_1", "Ch&8.sec@ke99!", "+27838986976", 
                 "Smith", "John");
-        
+        //
         
         //Act
         boolean actual = login.checkuserName();
-        
+        //Assert comment
         // Assert
         assertTrue(actual);
         
