@@ -62,5 +62,8 @@ This pattern follows the South African numbering rules from the Independent Comm
 
 Source: Independent Communications Authority of South Africa (ICASA), *Numbering*. Accessed 17 September 2026.
 
+## YouTube Link
+https://youtu.be/_ciCgc6oJgE
+
 
 
